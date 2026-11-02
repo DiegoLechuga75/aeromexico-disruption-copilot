@@ -17,9 +17,9 @@
                 <label>Applied</label>
             </value>
             <value>
-                <fullName>Pending Supervisor</fullName>
+                <fullName>Pending supervisor</fullName>
                 <default>false</default>
-                <label>Pending Supervisor</label>
+                <label>Pending supervisor</label>
             </value>
         </valueSetDefinition>
     </valueSet>
